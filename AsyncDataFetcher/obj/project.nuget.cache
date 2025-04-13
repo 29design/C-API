@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "f3gxBGgHafU=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Asthm\\Desktop\\29design\\C# API\\AsyncDataFetcher\\AsyncDataFetcher.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "\"Microsoft.AspNetCore.OpenApi (>= 9.0.0)\" kann für \"net9.0\" nicht aufgelöst werden.",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
